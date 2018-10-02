@@ -24,6 +24,7 @@
 #include "Menu.h"
 #include "misc.h"
 555
+    54445
 void DrawIcon(BYTE u8XPos, BYTE u8YPos, BYTE *pu8Icon, BYTE u8Flags, BYTE u8ColorSelect)
 {
     WORD u16TempValue;
