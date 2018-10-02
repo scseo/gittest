@@ -22,7 +22,7 @@
 #include "Menu.h"
 #include "drvOSD.h"
 #include "msOSD.h"
-
+#test111
 
 void Load256ColorPalette(BYTE u8Group, BYTE u8Addr, ColorPaletteType *colorPtr, WORD u16Num)
 {
