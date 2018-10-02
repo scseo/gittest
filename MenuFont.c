@@ -24,6 +24,7 @@
 #include "LoadPropFont1218.h"
 
 #include "MenuFontTbl.h"
+123
 
 extern void mStar_LoadCompressedFont(BYTE u8Addr, const WORD *pu16FontPtr, WORD u16Count);
 extern void LoadCompressColorFont(const BYTE *pu8FontTbl, WORD *pu16MapPtr, BYTE countu8Count);
