@@ -15,7 +15,7 @@
 #include "Global.h"
 #include "menudef.h"
 #include "msOSD.h"
-#include "drvOSD.h"
+
 #include "MenuFont.h"
 #include "Menu.h"
 #include "ColorPalette.h"
@@ -25,7 +25,7 @@
 
 #include "MenuFontTbl.h"
 123
-
+ABCDEFG
 extern void mStar_LoadCompressedFont(BYTE u8Addr, const WORD *pu16FontPtr, WORD u16Count);
 extern void LoadCompressColorFont(const BYTE *pu8FontTbl, WORD *pu16MapPtr, BYTE countu8Count);
 
