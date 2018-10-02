@@ -10,7 +10,7 @@
 ///  -Draw number/Hex number/text/gauge etc.
 ///  -
 ///////////////////////////////////////////////////////////////////////////////
-#define _MSOSD_C
+#define _MSOSD_C osdsdosdosodsodo
 
 #include <stdlib.h>
 #include "datatype.h"
